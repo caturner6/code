@@ -1,0 +1,15 @@
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/Assignment3RoughDraft.deps.json
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/Assignment3RoughDraft.runtimeconfig.json
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/Assignment3RoughDraft.runtimeconfig.dev.json
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/Assignment3RoughDraft.dll
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/ref/Assignment3RoughDraft.dll
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/bin/Debug/net5.0/Assignment3RoughDraft.pdb
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.csprojAssemblyReference.cache
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.AssemblyInfoInputs.cache
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.AssemblyInfo.cs
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.csproj.CoreCompileInputs.cache
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.dll
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/ref/Assignment3RoughDraft.dll
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.pdb
+/Users/camturner/Desktop/Repos/Assignment3RoughDraft/obj/Debug/net5.0/Assignment3RoughDraft.genruntimeconfig.cache
